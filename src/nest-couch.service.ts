@@ -1,5 +1,5 @@
 import { Inject, Injectable, Logger } from '@nestjs/common';
-import * as nano from 'nano';
+import nano from 'nano';
 import { NEST_COUCH_OPTIONS } from './constants';
 import { NestCouchOptions } from './interfaces';
 
