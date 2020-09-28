@@ -1,6 +1,6 @@
 {
   "name": "@irieimperator/nest-couch",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "NestJS module acting as a wrapper around nano providing a convenient 'NestJS style' approach for using CouchDB.",
   "author": "irieimperator",
   "private": false,
