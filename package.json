@@ -1,6 +1,6 @@
 {
   "name": "@irieimperator/nest-couch",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "NestJS module acting as a wrapper around nano providing a convenient 'NestJS style' approach for using CouchDB.",
   "author": "irieimperator",
   "private": false,
@@ -9,7 +9,10 @@
   "publishConfig": {
     "access": "public"
   },
-  "files": ["src", "dist"],
+  "files": [
+    "src",
+    "dist"
+  ],
   "scripts": {
     "eslint:fix": "eslint \"{src,apps,libs,test}/**/*.ts\" --fix",
     "prettier:fix": "prettier --write \"src/**/*.ts\"",
